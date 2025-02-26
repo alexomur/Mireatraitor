@@ -1,1 +1,4 @@
 "Branch2 text 1" 
+"Branch2 text 2" 
+"Branch2 text 2" 
+"Branch2 text 3" 
